@@ -34,5 +34,8 @@ Weekend is as a whole generate better revenue compare to weekday, with Sunday re
 
 It is interesting to see that most of the sales was done during the morning session from 8-11am , the sales peak at 11am , and slowly coming down after lunch hour. The sales improve slightly during 4pm-6pm and then slow down drastically . The hourly sales pattern could provide some hindsight to the bakery in setting their business hour. The hour after 6pm contribute very litter sales , maybe the bakery can consider to end their business by 6pm . 
 
+As the percentage of sales after 7pm is of 0.44% of the total sales record , the bakery could consider to close the business by by 7 pm instead of open until so late. This can help them to save the man power and utility cost and make better use of it in boosting the sales during other time of the day.
+
+From the calculation ,we also realized that the top 10 menu items constitutes 47% of the total sales (total unique menu item=149 ) thus , it is worth to delve into those less sold item and decide whether to discontinue or improvise. The bakery can also design a package sale that tie up 2 or more menu item together, which can help to boost those less sold menu item
 
 
