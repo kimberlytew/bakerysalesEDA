@@ -14,12 +14,19 @@ a. dataset contains 234005 rows of sata and 7 columns ( index,dates, time, ticke
 
 Methodology:
 a. Convert the spring value to capitalize each word for article 
+
 b. Rename the columns so that it is easier to understand the meaning ( ticket_numbers : Transaction ID; article:Item; unit_price:Price)
+
 c. Change the data format for date , time to datetime format , and Transaction ID , Price and Quantity to numeric format
+
 d. Remove the euro sign from the price column to enable math calculation later
+
 e. Add columns that split date to month, day and weekday and time to hour
+
 f. Check for null and duplicate value. There is no null or duplicate value, no actiona needed
+
 g. Remove negative quantity and price from the dataset as it is due to error in recording 
+
 h. As a result , the final dataset has (233973 rows of data and 15 columns）
 
 EDA Finding:
