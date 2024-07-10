@@ -1,5 +1,7 @@
 # BakerysalesEDA
 
+![pexels-davideibiza-1739748](https://github.com/kimberlytew/bakerysalesEDA/assets/116537017/1bae1605-df3b-4258-b1be-49d72742accb)
+
 To be able to undestand the sales pattern of a bakery business , it helps business owner to better positision their business strategy. Bakery Owner now can make data-driven decision based on their history sales data. The sales EDA analysis will benefit marketing team in formulate more effective marketing strategy.
 
 Data source : https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales/data
